@@ -1,6 +1,6 @@
 # Calculator
 
-#### An application that does simple arithmetic
+#### An application that does simple arithmetic functions
 
 #### By Tam Nguyen
 
