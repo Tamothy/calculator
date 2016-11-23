@@ -1,32 +1,37 @@
+# Calculator
 
-# Basic Calculator
+#### An application that does simple arithmetic
 
-#### A calculator that does basic things, 05.18.2016
+#### By Tam Nguyen
 
-#### By Tam Nguyen and Valerie Conarroe
+## Description
 
-# Description
-
-A calculator that does basic arithmetic functions.
+This is an exercise implementing JavaScript, using JQuery to split back-end and front-end operations
 
 ## Setup/Installation Requirements
 
-* Clone the repository
-* Open the file
-* Pick two numbers
-* Put them in program
-* Press Enter and you'll get your answer
+* Check out the GitHub pages link: https://tamothy.github.io/calculator
+* Clone repository if interested in making changes
+* Use Atom to customize changes
+* Make sure to commit regularly on terminal
+* Don't forget to push to remote repository
 
 ## Support and contact details
 
-Bill Nye: billnye@gmail.com
+Tam Nguyen's email: mr.tamron@gmail.com
 
 ## Technologies Used
 
-HTML, CSS, and JavaScript
+JavaScript
+
+JQuery
+
+CSS
+
+HTML
 
 ### License
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2015 **Tam and Valerie**
+Copyright (c) 2016 **Tam Nguyen**
